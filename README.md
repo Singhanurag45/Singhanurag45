@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on DSA & Backend projects  
+🔭 Working on DSA & Full stack projects  
 🌱 Learning advanced algorithms & system design  
 👯 Open to open-source collaboration  
 💬 Ask me about C++, JavaScript & SQL  
